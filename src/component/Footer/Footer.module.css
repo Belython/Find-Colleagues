@@ -1,0 +1,6 @@
+.footer{
+    background: #fff;
+    grid-area: footer;
+    display: flex;
+    justify-content: space-around;
+}
